@@ -20,5 +20,3 @@ Mahasiswa tahun ke dua Teknik Informatika dari Institut Teknologi Indonesia.Memi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rosecoloredboyy&icon=3&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
