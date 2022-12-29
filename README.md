@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mahasiswa tahun ke 2 (dua) Teknik Informatika dari Institut Teknologi Indonesia.Memiliki ketertarikan<br>mendalam pada dunia desain dan web. Memiliki kemampuan mengoperasikan Adobe Illustrator, Adobe<br>Photoshop, Figma, dan Elementor. Ingin menjadi UI/UX Designer.
+Mahasiswa tahun ke dua Teknik Informatika dari Institut Teknologi Indonesia.Memiliki ketertarikan<br>mendalam pada dunia desain dan web. Memiliki kemampuan mengoperasikan Adobe Illustrator, Adobe<br>Photoshop, Figma, dan Elementor. Ingin menjadi UI/UX Designer.
 
 
 ## 🌐 Socials:
